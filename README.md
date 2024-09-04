@@ -14,10 +14,11 @@ This is a small, casual project that simulates orbits in 2D space using classica
 
 To run the project:
 
-1. Download the repository ZIP file.
-2. Unzip the file.
-3. Open a terminal and navigate to the root directory of the project.
-4. Execute the following commands:
+1. Ensure that Java and Maven are installed on your system.
+2. Download the repository ZIP file.
+3. Unzip the file.
+4. Open a terminal and navigate to the root directory of the project.
+5. Execute the following commands:
 
     ```sh
     mvn clean package
